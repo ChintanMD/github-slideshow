@@ -10,4 +10,5 @@ layout: slide
 title: "Welcome to ChintanMD's slide!"
 ---
 Your text
+This is ChintanMD's slide
 Use the left arrow to go back!
