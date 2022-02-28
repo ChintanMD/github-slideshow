@@ -10,5 +10,5 @@ layout: slide
 title: "Welcome to ChintanMD's slide!"
 ---
 Your text
-This is ChintanMD's slide
+This is ChintanMD's slide - awesome!
 Use the left arrow to go back!
