@@ -7,7 +7,8 @@ Use the right arrow to begin!
 
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to ChintanMD's slide!"
 ---
 Your text
+This is ChintanMD's slide - awesome!
 Use the left arrow to go back!
